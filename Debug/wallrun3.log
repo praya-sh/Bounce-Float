@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\praya\OneDrive\Desktop\wallrun3\wallrun3\Game.cpp(62,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\praya\OneDrive\Desktop\wallrun3\wallrun3\Game.cpp(136,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\praya\OneDrive\Desktop\wallrun3\wallrun3\Game.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+  wallrun3.vcxproj -> C:\Users\praya\OneDrive\Desktop\wallrun3\Debug\wallrun3.exe
